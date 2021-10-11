@@ -1,4 +1,4 @@
-# PecConnect
+# SRM Connect
 
 
 for running the backend server go inside the backend directory and run
